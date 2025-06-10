@@ -25,3 +25,44 @@
   text-align: left;
   margin: 0;
 }
+.newsletter-section{
+  padding: 117px 80px;
+}
+.newsletter-container{
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #778DA9;
+  color: white;
+  display: flex;
+  height: 294px;
+  border-radius: 24px;
+  gap: 50px;
+  align-items: center;
+}
+.newsletter-text{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: center;
+  align-items: start;
+  padding-left: 56px;
+  gap: 50px;
+}
+.newsletter-text h3,
+.newsletter-text p{
+  margin: 0px;
+}
+.newsletter-container div{
+  flex: 1;
+
+}
+.newsletter-text button{
+  width: fit-content;
+  gap: 14px;
+  white-space: nowrap;
+}
+
+.newsletter-container img{
+  width: 100%;
+
+}
