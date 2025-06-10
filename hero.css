@@ -58,12 +58,12 @@ nav{
   justify-content: center;
   align-items: center;
 }
-.main-txt h1{
+h1{
   font-size: 64px;
   font-weight: 500;
   max-width: 419px;
 }
-.main-txt h3{
+h3{
   font-size: 24px;
   font-weight: 400;
 }
@@ -80,7 +80,7 @@ nav{
   width: 48px;
 }
 
-.hero-btns button{
+button{
   background-color: #1B263B;
   border: none;
   padding: 0px 0px 0px 16px;
