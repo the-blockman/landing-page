@@ -39,6 +39,7 @@
   gap: 50px;
   align-items: center;
 }
+
 .newsletter-text{
   display: flex;
   flex-direction: column;
@@ -48,14 +49,16 @@
   padding-left: 56px;
   gap: 50px;
 }
+
 .newsletter-text h3,
 .newsletter-text p{
   margin: 0px;
 }
+
 .newsletter-container div{
   flex: 1;
-
 }
+
 .newsletter-text button{
   width: fit-content;
   gap: 14px;
@@ -64,5 +67,12 @@
 
 .newsletter-container img{
   width: 100%;
+}
 
+footer{
+  background-color: #0D1B2A;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
