@@ -16,7 +16,7 @@ h2{
   align-items: center;
   gap: 40px;
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 0 auto 97px auto;
 }
 .card-container{
   flex: 1;
@@ -30,7 +30,6 @@ h2{
   background-image: url(images/card-1.png);
   background-size: cover;
   height: 424px;
-  width: 100%;
   padding: 5px;
   border-radius: 24px;
   position: relative;
